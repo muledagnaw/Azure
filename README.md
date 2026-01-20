@@ -1,31 +1,46 @@
+Here’s a **rephrased and summarized version** of your README while keeping it clean, emoji-friendly, and GitHub-ready:
+
+---
+
 # ☁️ Azure Cloud Computing – Microsoft Fabric Lab
 
-* Microsoft Fabric provides a single platform for all the analytical needs of an enterprise. It covers the spectrum of analytics including data movement, data lakes, data engineering, data integration, data science, real time analytics, and business intelligence
+**Microsoft Fabric** is a unified analytics platform that supports the full spectrum of enterprise analytics, including data movement, data lakes, data engineering, data integration, data science, real-time analytics, and business intelligence.
 
-* This repository contains an **Azure Cloud Computing lab** using **Microsoft Fabric**. It helps us to demonstrates how to ingest, transform, orchestrate, and automate data pipelines in Microsoft Fabric Data Factory.
+This repository demonstrates an **Azure Cloud Computing lab** using **Microsoft Fabric**, showing how to **ingest, transform, orchestrate, and automate data pipelines** using Data Factory.
 
-
+---
 
 ## 🎯 Learning Outcomes
 
 * ✅ Understand Microsoft Fabric
 * ✅ Explore Data Factory architecture
 * ✅ Build and run a data pipeline in Azure
-  
-## Three Core Features of Data Factory
-* Data Ingestion
-* Data Transformation
-  - 	Dataflow Gen2 provides 300+ transformations in a low‑code interface.
-  - 	Can load transformed data into Azure SQL, Lakehouse, and other destinations.
-* End‑to‑End Automation
- -  	Pipelines orchestrate Copy, Dataflow, Notebook, and other activities.
- -  	Activities can run sequentially or in parallel.
--     Entire workflows can be scheduled and monitored.
-  
+
+---
+
+## ⚡ Core Features of Data Factory
+
+* **Data Ingestion** – Efficiently bring in data from multiple sources.
+* **Data Transformation**
+
+  * Dataflow Gen2 provides 300+ low-code transformations.
+  * Transformed data can be loaded into Azure SQL, Lakehouse, or other destinations.
+* **End-to-End Automation**
+
+  * Pipelines orchestrate Copy, Dataflow, Notebook, and other activities.
+  * Activities can run sequentially or in parallel.
+  * Complete workflows can be scheduled and monitored.
+
+---
+
 ## 🛠️ Platform
 
 * ☁️ Microsoft Azure
 * 📊 Microsoft Fabric
+
+---
+
+## 📷 Lab Screenshots
 
 <img width="1005" height="584" alt="image" src="https://github.com/user-attachments/assets/e39331c1-f050-42c1-9409-035c2c38d524" />
 
