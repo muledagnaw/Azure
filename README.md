@@ -1,6 +1,3 @@
-Here’s a **rephrased and summarized version** of your README while keeping it clean, emoji-friendly, and GitHub-ready:
-
----
 
 # ☁️ Azure Cloud Computing – Microsoft Fabric Lab
 
